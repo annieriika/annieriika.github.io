@@ -8,17 +8,19 @@ layout: default
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[LinkedIn](https://fi.linkedin.com/), [GitHub](https://github.com/annieriika)
 
 ## Contact
 
-My email address is of the form first_name.last_name@helsinki.fi. 
+anni.moisala@helsinki.fi. 
 
 ## Courses I've Taken
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
+[Programming for Linguists](https://courses.helsinki.fi/enjoying-cheese-I), spring 2022
 
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+[Mathematics for Linguists](https://studies.helsinki.fi/courses/cu/hy-CU-117878775-2021-08-01/KIK-LG209/Mathematics_for_Linguists), spring 2022
+
+[Machine Translation](), spr
 
 ## Projects
 
