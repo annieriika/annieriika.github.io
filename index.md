@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> I am a student at the University of Helsinki, set to graduate in the fall semester 2022. Although I started out as an English student, my main interest is in language technology. Therefore, I have completed courses in english philology, linguistics and language technology. In my free time I love to get creative and take photographs, knit and play piano, as well as enjoy the outdoors by walking, running and hiking. 
 
 ## Find me on
 
