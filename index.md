@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction
 
-<img src="src/photos/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> I am a student at the University of Helsinki, set to graduate in the fall semester 2022. Although I started out as an English student, my main interest is in language technology. Therefore, I have completed courses in english philology, linguistics and language technology. In my free time I love to get creative and take photographs, knit and play piano, as well as enjoy the outdoors by walking, running and hiking. From time to time I also love to travel.
+<img src="assets/images/my_photo.jpg" alt="Photo" hspace="20" width="30%" align="right"/> I am a student at the University of Helsinki, set to graduate in the fall semester 2022. Although I started out as an English student, my main interest is in language technology. I have completed courses in english philology, linguistics and language technology. In my free time I love to get creative and take photographs, knit and play piano, as well as enjoy the outdoors by walking, running and hiking. From time to time I also love to travel.
 
 ## Find me on
 
@@ -30,4 +30,4 @@ anni.moisala@helsinki.fi.
 
 ## Misc. 
 
-[Photography](https://www.instagram.com/anni.eriika/)
+[Photography](https://www.instagram.com/anni.eriika/). Here is my instagram page where you can see my photography.
