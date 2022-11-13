@@ -6,6 +6,10 @@ layout: default
 
 <img src="assets/images/my_photo.jpg" alt="Photo" hspace="20" width="30%" align="right"/> I am a student at the University of Helsinki, set to graduate in the fall semester 2022. Although I started out as an English student, my main interest is in language technology. I have completed courses in english philology, linguistics and language technology. In my free time I love to get creative and take photographs, knit and play piano, as well as enjoy the outdoors by walking, running and hiking. From time to time I also love to travel.
 
+## CV
+
+[Here](assets/documents/CV.pdf) you can find my CV.
+
 ## Find me on
 
 [LinkedIn](https://www.linkedin.com/in/anni-moisala-a72086103/), [GitHub](https://github.com/annieriika)
