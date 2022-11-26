@@ -8,7 +8,7 @@ layout: default
 
 ## CV
 
-[Here](assets/documents/CV.pdf) you can find my CV.
+[Here](assets/documents/CV.pdf) you can download my CV.
 
 ## Find me on
 
@@ -19,6 +19,14 @@ layout: default
 anni.moisala@helsinki.fi. 
 
 ## Courses I've Taken
+
+[Coursera: Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning), certificate available 
+
+[Speech Analysis Methods](https://studies.helsinki.fi/opintotarjonta/cur/hy-opt-cur-2223-e52b4301-d7ae-4b09-9640-aa0ebd591819), fall 2022
+
+[Command Line Tools for Linguists](https://studies.helsinki.fi/courses/cur/hy-opt-cur-2223-261401a1-c550-4436-91b9-7edf4a1a3b57/%E2%90%9FKIK%E2%90%9F-%E2%90%9FLG%E2%90%9F%E2%90%9F221%E2%90%9F/Command_Line_Tools_for_Linguists_exercise_session_Lectures), fall 2022
+
+[Introduction to Language Technology](https://studies.helsinki.fi/opintotarjonta/cur/hy-opt-cur-2223-43b8f122-8ca2-453b-addd-cbfd756c3306/%E2%90%9FKIK%E2%90%9F-%E2%90%9F405%E2%90%9F/Introduction_to_Language_Technology_Luento_opetus), fall 2022
 
 [Programming for Linguists](https://studies.helsinki.fi/courses/cur/hy-opt-cur-2223-2b1a1c0f-9701-4397-9e19-ab80b0c87af4/%E2%90%9FKIK%E2%90%9F-%E2%90%9FLG%E2%90%9F%E2%90%9F208%E2%90%9F/Ohjelmointia_lingvisteille_Programming_for_linguists_Lectures), spring 2022
 
@@ -31,6 +39,10 @@ anni.moisala@helsinki.fi.
 ## Projects
 
 [Commandline-course Project](https://github.com/annieriika/cmdline-course). This project taught me how to use Github and it includes books from the gutenberg library, as well as their parsed versions, frequency lists and sentence lists. 
+
+[Neural Machine Translation Final Project.](assets/documents/NMT-final-project.pdf) (Download pdf report.) This project consists training and optimazing three different German to English NMT-models, including pre-processing the data and evaluating the results.
+
+[Machine Learning for Linguists Final Project.](assets/documents/ML-project.ipynb) (Download Notebooks-file.) Comparing Naive Bayes and Neural Networks in Text Categorization of the Brown Corpus.
 
 ## Misc. 
 
